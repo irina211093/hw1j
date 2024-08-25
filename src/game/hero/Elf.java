@@ -28,5 +28,4 @@ public class Elf {
     public void setGender(String gender) {
         this.gender = gender;
     }
-
 }
