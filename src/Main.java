@@ -7,4 +7,5 @@ public class Main {
         int elfId = elf1.getId();
         System.out.println("Id of Elf: " + elfId);
     }
+
 }
